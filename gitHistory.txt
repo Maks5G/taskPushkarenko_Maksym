@@ -12,3 +12,46 @@ Untracked files:
         gitHistory.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   gitHistory.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.txt
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   gitHistory.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.txt
+
+-----
+
+commit 0cf5402c311276018a392c3bca7ddf145c785581 (HEAD -> master)
+Author: Maks5G <pushkarenko.maks@knu.ua>
+Date:   Sun Feb 6 19:27:40 2022 +0200
+
+    Alala
+
+commit 71b6fa2782ab55d08eef3c479c99c137f9ea3203
+Author: Maks5G <pushkarenko.maks@knu.ua>
+Date:   Thu Feb 3 16:45:34 2022 +0200
+
+    Коментар
+
+-----
+
+об'єкти:
+0c: f5402c311276018a392c3bca7ddf145c785581
+f9: e3fdd4392da20f585279704f4e39d42b76afbb
+8d: 42e65d0be97eb76b8b8c5a891d8269e1ddd1e0
+71: b6fa2782ab55d08eef3c479c99c137f9ea3203
+62: e47c7f3928e77b0ae37111f3c9fa5a2ec8191a
+e6: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
